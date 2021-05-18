@@ -1,3 +1,4 @@
-# .com   The popular vote on items in messaging apps can provide an inventory prelude to savings for the distributor who passes savings onto the consumer. 
+# .com   This example would be:   TryLike Add coconut water to Tonkotsu
 
-This example would be:   TryLike Add coconut water to Tonkotsu
+The popular vote on items in messaging apps can provide an inventory prelude to savings for the distributor who discounts  products to the consumer. 
+
