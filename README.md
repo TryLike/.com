@@ -1,11 +1,22 @@
+!DOCTYPE HTML
+<html>
+  
+  <title>.com</title>
 # .com   
 
-<h1>Hello World!<h1>  
-<p>It appears I am an Agile type of Geek.  Unless you are my boss you have no place telling me when to do something. Thankfully my Software Engineering classes will help me cultivate the System Management specified to create it.  It will get done now that I have a Mentor.<p>
+  <h6>Hello World!</h6>  
+  <body>
+    <header>Trylike.com</header>
+  <p>s is a proto type system build, This Algorythm specifies subject matter not complimented
+    in some software programs.</p>
+  <p>Susan began this project outside of the coding world of Software Engineering.
+  She therefore must learn how to implement the Software feature to develope and test it.
+  Since Susan knows it works it should be expandable and performing on a Multiplatform Website.</p>
+  
+  
+    <h3>ike: Add coconut water to Tonkotsu</h3>
 
-.com, stubjam, trylike are my ideas.  I am doing the work to get it done, please be patient. 
+<p> popular vote on TryLike .com items in messaging apps can provide an inventory prelude to savings for the distributor who discounts  products to the consumer.</p>
 
-TryLike: Add coconut water to Tonkotsu
-
-The popular vote on TryLike .com items in messaging apps can provide an inventory prelude to savings for the distributor who discounts  products to the consumer. 
-
+</body>
+  </html>
